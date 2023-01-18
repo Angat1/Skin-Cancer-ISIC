@@ -37,10 +37,8 @@
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by Upgrad
+- https://www.isic-archive.com/#!/topWithHeader/wideContentTop/main
 
 
 ## Contact
