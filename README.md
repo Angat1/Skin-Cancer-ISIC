@@ -1,12 +1,12 @@
-# Project Name
+# International Skin Imaging Collaboration (ISIC) Skin Cancer Classification
 > Outline a brief description of your project.
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* General Info
+* Technologies Used
+* Conclusions
+* Acknowledgements
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -28,9 +28,10 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Panda - version 1.5.1
+- Numpy - version 1.24.1
+- Matplotlib - version 3.6.3
+- Keras - version 2.11.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
