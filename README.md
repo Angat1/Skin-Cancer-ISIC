@@ -28,6 +28,7 @@
 
 
 ## Technologies Used
+- Python - version 3.11. 0
 - Panda - version 1.5.1
 - Numpy - version 1.24.1
 - Matplotlib - version 3.6.3
