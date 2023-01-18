@@ -29,6 +29,7 @@ A CNN, or Convolutional Neural Network, is a type of deep learning model that is
 **Model evaluation**: After training, the model would be evaluated on the validation and test sets to measure its performance. Common metrics used for image classification tasks include accuracy, precision, recall, and F1 score.
 
 **Business Problem**
+
 The business problem that is being addressed by solving the ISIC skin cancer dataset classification using a CNN is the early detection and diagnosis of skin cancer, specifically melanoma. Melanoma is a type of skin cancer that can be highly aggressive and has a high mortality rate if not caught early. Accurately classifying skin lesions is essential for early detection and diagnosis of Skin Cancer.
 
 Currently, the process of identifying skin cancer is often done by human dermatologists, who may have difficulty accurately identifying certain types of skin lesions, particularly in their early stages. This can lead to delayed diagnosis and treatment, which can negatively impact patient outcomes. By developing a model that can accurately classify skin lesions, the diagnostic process for dermatologists could be improved and the rate of early detection and diagnosis  could be increased.
@@ -36,6 +37,7 @@ Currently, the process of identifying skin cancer is often done by human dermato
 Overall, the goal of this project is to use the power of deep learning to improve the diagnostic process for skin cancer and ultimately save lives by detecting and diagnosing at an early stage.
 
 **Dataset**
+
 The ISIC dataset is a publicly available dataset of skin lesion images that can be used for training and evaluating models for the classification of skin cancer. THis dataset content test and train data sepratly. It has 9 different types of skin cancer.The ISIC dataset is widely used in the research community for developing and evaluating models for the classification of skin cancer. The dataset is particularly useful for training and evaluating deep learning models such as CNNs, as it contains a large number of diverse images of skin lesions.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
