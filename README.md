@@ -49,7 +49,7 @@ The ISIC dataset is a publicly available dataset of skin lesion images that can 
 
 - The data generator applies a series of random transformations to the images, such as rescaling, rotation, shifting, zooming, flipping and changing brightness. Using data augmentation can help to balance the dataset by creating more examples for the minority classes. By applying these random transformations to the images, the model will be exposed to a wider variety of images during training, which can help to reduce overfitting and improve generalization. 
 
-- Even 30 epochs may not be sufficient to fully train a deep learning model such as a CNN on the ISIC skin cancer dataset classification problem. 
+- Even 30 epochs may not be sufficient to fully train a deep learning model such as a CNN on the ISIC skin cancer dataset classification problem. The conclusion i made that if we increass the epoch size . There is chance we can improve the model performance.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
